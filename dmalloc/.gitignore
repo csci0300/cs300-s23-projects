@@ -1,0 +1,7 @@
+# ignore compiled object files 
+.vscode
+*.o
+test*
+!test*.cc
+hhtest
+hhtest.o
