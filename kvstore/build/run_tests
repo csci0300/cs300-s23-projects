@@ -1,0 +1,32 @@
+#!/bin/bash
+
+TEST_SECTIONS=(
+    "A1"
+    "A2"
+    "A3"
+    "A4"
+    "A5"
+)
+
+if [ $# -eq 0 ]; then
+  ./test.sh
+elif [ $# -eq 1 ]; then
+  case $1 in
+    "concurrent_store")
+      ./test.sh "A1" "A2" "A3" "A4" "A5"
+      ;;
+    "distributed_store")
+      ./test.sh "B1" "B2" "B3"
+
+      ;;
+    *)
+      if [[ " ${TEST_SECTIONS[*]} " == *"${1}"* ]]; then
+        ./test.sh "$1"
+      else
+        echo "Invalid argument: $1"
+      fi
+      ;;
+  esac
+else
+  echo "Invalid number of arguments: $#"
+fi
