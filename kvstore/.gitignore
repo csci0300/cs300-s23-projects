@@ -1,0 +1,7 @@
+.DS_Store
+.idea/
+build/
+!build/Makefile
+!build/test.sh
+!build/run_tests
+!tests/
