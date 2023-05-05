@@ -29,6 +29,8 @@ class SimpleClient : public Client {
   bool MultiPut(const std::vector<std::string>& keys,
                 const std::vector<std::string>& values);
 
+  bool GDPRDelete(const std::string& user);
+
  private:
   std::string server_addr;
 };

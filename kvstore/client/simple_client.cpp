@@ -133,3 +133,17 @@ bool SimpleClient::MultiPut(const std::vector<std::string>& keys,
 
   return false;
 }
+
+bool SimpleClient::GDPRDelete(const std::string& user) {
+  // TODO: Write your GDPR deletion code here!
+  // You can invoke operations directly on the client object, like so:
+  //
+  // std::string key("user_1_posts");
+  // std::optional<std::string> posts = Get(key);
+  // ...
+  //
+  // Assume the `user` arugment is a user ID such as "user_1".
+
+  cerr_color(RED, "GDPR deletion is unimplemented!");
+  return false;
+}

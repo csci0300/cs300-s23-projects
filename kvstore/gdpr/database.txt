@@ -1,0 +1,56 @@
+put user_1 Congressperson Kirby
+put user_2 Sarsra Breisand
+put user_3 Barry Smith
+put user_4 Jean Goldes
+put user_5 Papa Razzi
+put user_6 Beth Abraham
+put user_7 James Sword
+put user_8 Graham Paw
+put user_9 Corrigan Grape
+put user_10 Angel Yoline
+put user_11 Brad Schmidt
+put user_12 Noah Bolden
+put user_13 Gerri Kane
+put user_14 Marge Blimp
+put user_15 Frank Blimp
+put user_16 Matt Bleat
+put post_1 Quarantine til July sounds like a bunch of bullshit. I’m sorry. It’s a virus.
+put post_2 I get it. I respect it. But at the same time, even if everybody gets it, yeah, people are going to die, which is terrible, but inevitable?
+put post_3 Today, I’m honored to announce my candidacy for reelection here in Rhode Island’s 1st Congressional District. Watch my launch video, then pitch in a grassroots donation to help power this campaign to victory! Please like & RT to spread the word.
+put post_4 In reflecting on my previous comments, I realize that my words about the quarantine and the virus were not expressed with the empathy and understanding Rhode Islanders deserved. I deeply apologize to anyone I may have upset or offended. The virus has impacted us all in profound ways, and I fully acknowledge the seriousness of this pandemic. I understand the necessity of quarantine measures and respect the efforts of healthcare professionals and scientists working tirelessly to keep us safe. As I seek your support for my candidacy in Rhode Island’s 1st Congressional District, I am committed to learning from my past and working hard to represent our shared interests and concerns. Together, we can ensure a healthier, safer future for all. #RI01
+put post_5 lowkey doesn't really matter that kirby said that stuff about the virus. we were all thinking it
+put post_6 Pretty horrific that Congressperson Kirby went all in on virus denial, even if it was years back. #NotMyCongressperson
+put post_7 Sarsra Breisand spotted at her cliff-top residence in Malibu, California on Zumirez Dr!
+put post_8 Fascinating to reflect on the Breisand Effect and the way it's inspired cutting-edge research on psychological reactance!
+put post_9 see u in malibu sarsra!!! lmao
+put post_10 paparazzi are scum. delete this
+put post_11 crazy to see the titular instance of the breisand effect lol
+put post_12 So so proud of the amazing cast and crew that were able to make our new film, Total Menace, possible. See it in theaters this Friday!!
+put post_13 Hilarious to see whatsherface starring as a communist revolutionary when she once told me that ""maybe its not a bad thing that ppl in poor districts dont turn out for elections""...she really is a total menace.
+put post_14 are we really shocked to hear that Angel Yoline, the highest paid actress of the 2010s, hates poor people? im not
+put post_15 Angel has a point. I think people should be required to have some sort of baseline education before they're able to vote...look at the state of our country.
+put post_16 @user_15 not shocked that you've missed yet another month of child support...
+put post_17 For those that follow me, just wanted to address the claims levied by my ex-wife. I was going through a really tough time — I didn't have a reliable source of income or housing — so I missed a child support payment. I've since landed a great job and paid what I owed. I regret missing a payment, but I really don't think Tweeter is the place to discuss this.
+put post_19 It's official. First day of the rest of my life. Brown University Track and Field commit! Ivy League bound!
+put post_20 HELLO EVERYBODY. PLEASE STOP SPREADING MY ADDRESS. I HAVE TAKEN LEGAL ACTION AGAINST THOSE WHO SHARED IT IN THE FIRST PLACE. LOVE.
+put post_21 @brownusports don't put sexual assaulters on your team. wouldnt want to catch that game #DELETEMATTBLEAT
+put post_22 @brownusports BELIEVE SURVIVORS. #DELETEMATTBLEAT
+put post_1_replies post_2
+put post_7_replies post_9,post_10,post_11
+put all_users user_1,user_2,user_3,user_4,user_5,user_6,user_7,user_8,user_9,user_10,user_11,user_12,user_13,user_14,user_15,user_16
+put user_1_posts post_1,post_2,post_3,post_4
+put user_2_posts post_20
+put user_3_posts post_5
+put user_4_posts post_6
+put user_5_posts post_7
+put user_6_posts post_8
+put user_7_posts post_9
+put user_8_posts post_10
+put user_9_posts post_11
+put user_10_posts post_12
+put user_11_posts post_13
+put user_12_posts post_14,post_22
+put user_13_posts post_15,post_21
+put user_14_posts post_16
+put user_15_posts post_17
+put user_16_posts post_19

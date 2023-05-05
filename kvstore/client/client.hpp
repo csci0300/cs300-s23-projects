@@ -25,6 +25,8 @@ class Client {
 
   virtual bool MultiPut(const std::vector<std::string>& keys,
                         const std::vector<std::string>& values) = 0;
+
+  virtual bool GDPRDelete(const std::string& user) = 0;
 };
 
 #endif /* end of include guard */
