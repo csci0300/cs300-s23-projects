@@ -8,6 +8,7 @@
 #include "client/appendcommand.hpp"
 #include "client/deletecommand.hpp"
 #include "client/getcommand.hpp"
+#include "client/gdpr_deletecommand.hpp"
 #include "client/joincommand.hpp"
 #include "client/leavecommand.hpp"
 #include "client/movecommand.hpp"
@@ -63,6 +64,8 @@ int main(int argc, char* argv[]) {
   repl.add_command(mgc);
   MultiPutCommand mpc{client};
   repl.add_command(mpc);
+  GDPRDeleteCommand gdel{client};
+  repl.add_command(gdel);
 
   repl.run();
 

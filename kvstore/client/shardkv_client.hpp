@@ -45,6 +45,10 @@ class ShardKvClient : public Client {
 
   bool MultiPut(const std::vector<std::string>& keys,
                 const std::vector<std::string>& values);
+  
+  bool GDPRDelete(const std::string& user) {
+    assert(false);
+  }
 
   // Shardmaster functions
   std::optional<ShardmasterConfig> Query();
