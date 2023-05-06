@@ -48,8 +48,8 @@ put user_6_posts post_8
 put user_7_posts post_9
 put user_8_posts post_10
 put user_9_posts post_11
-put user_10_posts post_12
-put user_11_posts post_13
+put user_10_posts post_12,post_13
+put user_11_posts post_23
 put user_12_posts post_14,post_22
 put user_13_posts post_15,post_21
 put user_14_posts post_16
