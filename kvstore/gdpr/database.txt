@@ -25,8 +25,8 @@ put post_8 Fascinating to reflect on the Breisand Effect and the way it's inspir
 put post_9 see u in malibu sarsra!!! lmao
 put post_10 paparazzi are scum. delete this
 put post_11 crazy to see the titular instance of the breisand effect lol
-put post_12 So so proud of the amazing cast and crew that were able to make our new film, Total Menace, possible. See it in theaters this Friday!!
-put post_13 Hilarious to see whatsherface starring as a communist revolutionary when she once told me that ""maybe its not a bad thing that ppl in poor districts dont turn out for elections""...she really is a total menace.
+put post_12 Maybe its not a bad thing that ppl in poor districts dont turn out for elections ...
+put post_13 So so proud of the amazing cast and crew that were able to make our new film, Total Menace, possible. See it in theaters this Friday!!
 put post_14 are we really shocked to hear that Angel Yoline, the highest paid actress of the 2010s, hates poor people? im not
 put post_15 Angel has a point. I think people should be required to have some sort of baseline education before they're able to vote...look at the state of our country.
 put post_16 @user_15 not shocked that you've missed yet another month of child support...
@@ -35,6 +35,7 @@ put post_19 It's official. First day of the rest of my life. Brown University Tr
 put post_20 HELLO EVERYBODY. PLEASE STOP SPREADING MY ADDRESS. I HAVE TAKEN LEGAL ACTION AGAINST THOSE WHO SHARED IT IN THE FIRST PLACE. LOVE.
 put post_21 @brownusports don't put sexual assaulters on your team. wouldnt want to catch that game #DELETEMATTBLEAT
 put post_22 @brownusports BELIEVE SURVIVORS. #DELETEMATTBLEAT
+put post_23 Hilarious to see whatsherface @user_10 starring as a communist revolutionary when she really has no respect for working folks...she really is a total menace.
 put post_1_replies post_2
 put post_7_replies post_9,post_10,post_11
 put all_users user_1,user_2,user_3,user_4,user_5,user_6,user_7,user_8,user_9,user_10,user_11,user_12,user_13,user_14,user_15,user_16
