@@ -31,7 +31,7 @@ void render_game_over(size_t width, size_t height) {
     int x_center = ((int)width / 2);
 
     WRITEW(y_center - 4, x_center - 4, "GAME OVER");
-    WRITEW(y_center - 2, x_center - (g_name_len / 2), g_name);
+    WRITEW(y_center - 2, x_center - (g_name_len / 2), "%s", g_name);
     int number_of_digits_in_score =
         g_score ? (int)(ceil(log10((double)g_score))) : 1;
     // (note that log10(0) is undefined, so we have to catch it)
